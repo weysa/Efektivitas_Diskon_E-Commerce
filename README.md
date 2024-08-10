@@ -10,6 +10,12 @@ Di Project ini, dilaksanakannya Exploratory Data Analysis, juga Clustering K-Mea
 
 [Video Penjelasan](https://www.youtube.com/watch?v=P3ccB2pvIYA)
 
+
 ## Dashboard
 
 [Looker Studio](https://lookerstudio.google.com/reporting/e87cc863-13e1-47b7-90e7-51ec836be21f/)
+
+
+## Dataset
+
+[GDrive](https://drive.google.com/drive/folders/16d3DOkcIFk5jYn7Wf_aRqtL-_Z-nH6Z1?usp=drive_link)
